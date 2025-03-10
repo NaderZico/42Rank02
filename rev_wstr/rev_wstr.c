@@ -23,9 +23,6 @@ void rev_wstr(char *str)
     }
 }
 
-
-// "  Hello World Khalil   "
-//Khalil 
 int main(int argc, char **argv)
 {
     if (argc == 2)
